@@ -10,4 +10,4 @@ After installing python (not required if running the exe)
 download the main.py-file/main.exe file and the audio file. Its also possible to play another audio file by uploading your audio file into the same
 directory as the python/exe file. Note that the song wont last longer than 94 seconds. If you want to extend how long until your pc shuts down you can edit this in the python file. 
 To run the exe just open the directory its located in and double click or right click and click run.
-To run the python file open a terminal in the directory the main.py file is located in and run `python main.py` if that doesnt work somehow run 'python3 main.py'
+To run the python file open a terminal in the directory the main.py file is located in and run `python main.py` if that doesnt work somehow run `python3 main.py`

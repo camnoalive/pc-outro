@@ -1,6 +1,6 @@
 # pc-outro - Windows only (for now)
 You can either use the exe ive provided to run the outro or use python and run the main.py file. This will play a song that lasts 94 seconds while displaying a dancing parrot. I got the dancing parrot from - 
-https://parrot.live
+https://github.com/hugomd/parrot.live
 
 If you want to run the outro using python first make sure you have python downloaded onto your desktop. If you dont have python installed you can install it below.
 https://www.python.org/downloads/

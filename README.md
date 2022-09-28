@@ -1,4 +1,4 @@
-# pc-outro
+# pc-outro - Windows only (for now)
 You can either use the exe ive provided to run the outro or use python and run the main.py file. This will play a song that lasts 94 seconds while displaying a dancing parrot. I got the dancing parrot from - 
 https://parrot.live
 
@@ -12,3 +12,6 @@ directory as the python/exe file. Note that the song wont last longer than 94 se
 To run the exe just open the directory its located in and double click or right click and click run.
 To run the python file open a terminal in the directory the main.py file is located in and run `python main.py` if that doesnt work somehow run
 `python3 main.py`
+
+please give me some feedback on this project in Issues or email me
+feedback@404notcam.ml

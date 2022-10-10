@@ -17,14 +17,6 @@ def shutDown():
     time.sleep(94)
     os.system('shutdown /s /t 1')
 
-
-
-
-
-
-
-
-
 Thread1 = threading.Thread(target=function_1)
 Thread2 = threading.Thread(target=function_2)
 
